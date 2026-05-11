@@ -41,9 +41,9 @@
   />
 
   <img 
-    align="left" 
-    alt="Top Languages" 
-    height="200" 
-    src="https://readme-stats-fast.vercel.app/api/top-langs/?username=R3nanRibeiro&layout=compact&theme=tokyonight&locale=pt-br" 
-  />
+  align="left" 
+  alt="Top Languages" 
+  height="200" 
+  src="https://readme-stats-fast.vercel.app/api/top-langs/?username=R3nanRibeiro&layout=compact&theme=tokyonight&locale=pt-br&langs_count=10&hide=html,css"
+ />
 </p>
