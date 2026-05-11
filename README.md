@@ -37,13 +37,13 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://readme-stats-fast.vercel.app/api?username=JPilati&show_icons=true&theme=tokyonight&locale=pt-br" 
+    src="https://readme-stats-fast.vercel.app/api?username=R3nanRibeiro&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
 
   <img 
     align="left" 
     alt="Top Languages" 
     height="200" 
-    src="https://readme-stats-fast.vercel.app/api/top-langs/?username=JPilati&layout=compact&theme=tokyonight&locale=pt-br" 
+    src="https://readme-stats-fast.vercel.app/api/top-langs/?username=R3nanRibeiro&layout=compact&theme=tokyonight&locale=pt-br" 
   />
 </p>
