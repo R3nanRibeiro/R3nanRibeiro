@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Email%20-%61DAFB33.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=161B22"/>
   </a>
 </div>
-
+<p>
 <p>
   <img 
     align="left" 
