@@ -18,6 +18,19 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=R3nanRibeiro&theme=monokai&show_icons=true='#center')  
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://readme-stats-fast.vercel.app/api?username=JPilati&show_icons=true&theme=tokyonight&locale=pt-br" 
+  />
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3nanRibeiro&layout=compact&theme=monokai&langs_count=6&cache_seconds=3600" alt="Linguagens mais utilizadas" />
+  <img 
+    align="left" 
+    alt="Top Languages" 
+    height="200" 
+    src="https://readme-stats-fast.vercel.app/api/top-langs/?username=JPilati&layout=compact&theme=tokyonight&locale=pt-br" 
+  />
+</p>
