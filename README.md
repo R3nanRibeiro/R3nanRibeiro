@@ -11,7 +11,7 @@
 
 - 📫 My e-mail is **renanribeirodasilva92@gmail.com**
 
-- 💻 My LinkedIn is [https://www.linkedin.com/in/renan-ribeiro-605573215/](www.linkedin.com/in/renan-ribeiro-605573215)
+- 💻 My LinkedIn is (www.linkedin.com/in/renan-ribeiro-605573215)
 
 
 <h3 align="left">Languages and Tools:</h3>
