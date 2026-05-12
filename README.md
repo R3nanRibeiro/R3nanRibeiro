@@ -5,7 +5,7 @@
 
 <h3 align="left">About me: </h3>
 
-- 📚 I’m currently learning **HTML, CSS, JavaScript, Python and .NET/C#**
+- 📚 I’m currently learning **HTML, CSS and .NET/C#**
 
 - 📫 I'm working at Faurecia Automotive of Brazil as system support 
 
