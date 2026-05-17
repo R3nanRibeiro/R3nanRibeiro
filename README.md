@@ -7,7 +7,7 @@
 
 - 📚 I’m currently learning **HTML, CSS and .NET/C#**
 
-- 📫 I'm working at Faurecia Automotive of Brazil as system support 
+- 📫 I'm working at Faurecia Automotive of Brazil as intern developer 
 
 - 📫 My e-mail is **renanribeirodasilva92@gmail.com**
 
