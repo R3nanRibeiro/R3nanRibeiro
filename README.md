@@ -33,18 +33,9 @@
 
 <p>
   
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://readme-stats-fast.vercel.app/api?username=R3nanRibeiro&show_icons=true&theme=tokyonight&locale=pt-br" 
-    />
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="200" 
-    src="https://readme-stats-fast.vercel.app/api/top-langs/?username=R3nanRibeiro&layout=compact&theme=tokyonight&locale=pt-br&langs_count=10&hide=html,css"
-    />
-</p>
+<div align="center">
+
+| [![Top Langs](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=R3nanRibeiro&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/R3nanRibeiro) | [![GitHub Streak](https://streak-stats.demolab.com/?user=R3nanRibeiro&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://github.com/R3nanRibeiro) |
+|---|---|
+
+</div>
